@@ -24,7 +24,7 @@ setup(
     zip_safe=False,
     platforms='any',
     install_requires=[
-        'suds-jurko>=0.6',
+        'suds-community',
         'six',
     ],
     classifiers=[
